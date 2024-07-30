@@ -1,0 +1,6 @@
+- 👋 Moin, I'm Rahul
+- 👀 I’m interested in the creative frontend, logical backend and physical computers. Tech in general intrests me. 
+- 🌱 I’m currently learning Javascript and Sass.
+- 📫 Reach me through my mail: rahul.gurung.work@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I live in switzerland.
